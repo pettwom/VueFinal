@@ -1,0 +1,73 @@
+{
+  "Area": [
+    {
+      "id": 1,
+      "nombre": "Sistemas",
+      "encargado": "Petter Jimmy Meave Mercado",
+      "cantidad": 5,
+      "estado": true
+    },
+    {
+      "id": 2,
+      "nombre": "Finanzas",
+      "encargado": "Eduardo Meave Mercado",
+      "cantidad": 10,
+      "estado": true
+    },
+    {
+      "id": 3,
+      "nombre": "Recursos Humanos",
+      "encargado": "Henry Meave Mercado",
+      "cantidad": 10,
+      "estado": true
+    }
+  ],
+  "Activos": [
+    {
+      "id": 1,
+      "tipo": "EQUIPOS COMPUTACIONALES",
+      "marca": "pruyeba",
+      "modelo": "Optiplex",
+      "estado": "Nuevo",
+      "area": "Sistemas"
+    },
+    {
+      "id": 2,
+      "tipo": "MUEBLES",
+      "marca": "HP",
+      "modelo": "Pavilion",
+      "estado": "Usado",
+      "area": "Finanzas"
+    },
+    {
+      "tipo": "MUEBLES",
+      "area": "Recursos Humanos",
+      "marca": "QWERTY",
+      "modelo": "ASD521",
+      "estado": "Usado",
+      "id": 3
+    },
+    {
+      "tipo": "EQUIPOS COMPUTACIONALES",
+      "area": "Sistemas",
+      "marca": "HP",
+      "modelo": "pavilion cde4565",
+      "estado": "Nuevo",
+      "id": 4
+    }
+  ],
+  "Tipo_area": [
+    {
+      "id": 1,
+      "cantidad": 5,
+      "tipo_area": "EQUIPOS COMPUTACIONALES",
+      "estado": "true"
+    },
+    {
+      "id": 2,
+      "cantidad": 5,
+      "tipo_area": "MUEBLES",
+      "estado": "true"
+    }
+  ]
+}
